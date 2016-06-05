@@ -1,6 +1,5 @@
 # Implementation-of-Statistical-Relevance-Model--based-on-Vector-Relevance-Model
-Ranked Retrieval
-Statistical Relevance Model based on Vector Relevance Model
+Ranked Retrieval using Statistical Relevance Model based on Vector Relevance Model
 
 This is a programming assignment and this is the question for it
 
